@@ -20,7 +20,7 @@ export default function Portfolio() {
           <h2 className="text-5xl md:text-6xl font-extrabold text-yellow-400 drop-shadow-lg animate-pulse">Hi, I'm Diya Sharma</h2>
           <p className="text-xl mt-4 text-gray-300">Frontend Developer </p>
          <a
-          href="/resume.pdf"
+          href="..assets/resume.pdf"
           download
           target="_blank"
           rel="noopener noreferrer"
